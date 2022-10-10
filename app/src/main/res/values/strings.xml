@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Teaming_bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Team</string>
+    <string name="title_notifications">Individual</string>
+</resources>
